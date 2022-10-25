@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+    margin: 0%;
+}
+
+img {
+    width: 350px;
+}
+
+.img-resize {
+    height: 350px;
+}
